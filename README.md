@@ -15,7 +15,7 @@
 3. Запустить Docker Desktop.
 2. Склонировать репозиторий на локальную машину командой в Git:
 
-   `git clone https://github.com/BrainLucker/qa-diploma.git`
+   `git clone https://github.com/elenabulavina90/Diplom`
 
 4. Запустить IntelliJ IDEA и открыть проект.
 
